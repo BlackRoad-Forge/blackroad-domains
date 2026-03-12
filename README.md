@@ -1,5 +1,10 @@
 # BlackRoad Domains - Complete Infrastructure Documentation
 
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-48%2B_domains-F38020.svg)](https://cloudflare.com)
+[![DNS](https://img.shields.io/badge/DNS-infrastructure-3776AB.svg)](https://blackroad.io)
+
+
+
 **Owner:** Alexa Louise Amundson
 **Organization:** BlackRoad Inc.
 **Email:** amundsonalexa@gmail.com | blackroad.systems@gmail.com
